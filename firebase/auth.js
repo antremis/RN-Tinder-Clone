@@ -7,8 +7,8 @@ export const logout = async () => {
 }
 
 const config = {
-    iosClientId : '556565586212-2lnjvfcctbs01hkbp9v7u3p8bkpd7bgh.apps.googleusercontent.com',
-    androidClientId : '556565586212-75hannsc12jtosstat8vkb3flltqimuu.apps.googleusercontent.com',
+    iosClientId : "556565586212-2lnjvfcctbs01hkbp9v7u3p8bkpd7bgh.apps.googleusercontent.com",
+    androidClientId : "556565586212-75hannsc12jtosstat8vkb3flltqimuu.apps.googleusercontent.com",
     scope : ["profile", "email"],
     permissions : ["public_profile", "email", "gender", "location"],
 }

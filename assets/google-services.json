@@ -1,39 +1,39 @@
 {
-  "project_info": {
-    "project_number": "556565586212",
-    "project_id": "rn-tinder-clone-a3fd1",
-    "storage_bucket": "rn-tinder-clone-a3fd1.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:556565586212:android:ce946fb3fb0180dd1593b1",
-        "android_client_info": {
-          "package_name": "host.exp.exponent"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "556565586212-iphibmjouqvrkh6tcijk77n1hcuds36h.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDYtugASsfl26zEl4eHv8Rdr-5dvwGeTF0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "556565586212-iphibmjouqvrkh6tcijk77n1hcuds36h.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+    "project_info": {
+      "project_number": "556565586212",
+      "project_id": "rn-tinder-clone-a3fd1",
+      "storage_bucket": "rn-tinder-clone-a3fd1.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:556565586212:android:ce946fb3fb0180dd1593b1",
+          "android_client_info": {
+            "package_name": "host.exp.exponent"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "556565586212-iphibmjouqvrkh6tcijk77n1hcuds36h.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDYtugASsfl26zEl4eHv8Rdr-5dvwGeTF0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "556565586212-iphibmjouqvrkh6tcijk77n1hcuds36h.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
         }
       }
-    }
-  ],
-  "configuration_version": "1"
-}
+    ],
+    "configuration_version": "1"
+  } 
